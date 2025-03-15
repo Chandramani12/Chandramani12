@@ -1,5 +1,19 @@
 # 💫 About Me:
 Full Stack Developer
+🔭 I’m currently working on:
+Improving new functionality in mern project
+
+👯 I’m looking to collaborate on:
+Fullstack Java developer projects
+
+🌱 I’m currently learning:
+Making Securie Application
+
+💬 Ask me about:
+ Java (Core, AWT, Multi-threading, OOP, Collections, JDBC, Servlet, JSP), Spring Boot, Spring MVC, Microservices, REST API, Hibernate, Python, JavaScript (Node.js, React.js, Angular.js), HTML, CSS, Bootstrap, Basic Php 
+
+⚡ Fun fact:
+I love Solving the real world problem.
 
 
 ## 🌐 Socials:
