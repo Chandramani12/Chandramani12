@@ -1,20 +1,20 @@
 # 💫 About Me:
-Full Stack Developer
-🔭 I’m currently working on:
+Full Stack Developer<br>
+🔭 I’m currently working on:<br>
 Improving new functionality in mern project
 
-👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:<br>
 Fullstack Java developer projects
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:<br>
 Making Securie Application
 
-💬 Ask me about:
+💬 Ask me about:<br>
  Java (Core, AWT, Multi-threading, OOP, Collections, JDBC, Servlet, JSP), Spring Boot, Spring MVC, Microservices, REST API, Hibernate, Python, JavaScript (Node.js, React.js, Angular.js), HTML, CSS, Bootstrap, Basic Php 
 
-⚡ Fun fact:
+⚡ Fun fact:<br>
 I love Solving the real world problem.
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandramani-tiwari-69aba31a1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandramaninet1002@gmail.com) 
