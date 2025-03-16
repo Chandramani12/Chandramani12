@@ -1,7 +1,7 @@
 # 💫 About Me:
 Full Stack Developer<br>
 🔭 I’m currently working on:<br>
-Improving new functionality in mern project
+Improving new functionality in Java Project
 
 👯 I’m looking to collaborate on:<br>
 Fullstack Java developer projects
